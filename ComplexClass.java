@@ -1,6 +1,7 @@
 import java.io.*;
 import java.util.Scanner;//for scanner class
 
+
 public class ComplexClass {
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
@@ -32,7 +33,7 @@ public class ComplexClass {
 	}
 
 }
-
+//we have to add the code for this class based on questions in Readme file
 public class ComplexNumbers {
 	// Complete this class
 	
